@@ -1,89 +1,75 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Mitchell Ellis' Resume
 ---
+
 # Mitchell Ellis
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+- Email: [Mitchell10is@byui.edu](mailto:Mitchell10is@byui.edu)
+- Phone: 623-332-3602
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+**Bachelor of Science in Accounting**  
+Jan. 2020 - Apr. 2024  
+Brigham Young University–Idaho  
+Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- GPA: 3.30 / 4.00
+- Interested in Audit with an emphasis in programming
+- Student Accounting Society member 2021 – 2023
+- Brigham Young University Grant
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Experience
 
-- 4.0 Major GPA
+**Waterford Custodian**  
+Apr. 2022 – Aug. 2022  
+Waterford School  
+Sandy, UT
 
+- Managed time to stay ahead of predicted cleaning schedule
+- Utilized vacuums and other motorized equipment in executing cleaning tasks
+- Endured through occasional 11 – 13 hour shifts
 
-## Related Experience
+**Full Time Amazon Associate SLC 4**  
+May 2021 – Aug. 2021  
+Amazon Fulfillment center  
+Salt Lake City, UT
 
-### Internships
+- Performed well for 10-hour days on a regular basis
+- Created a high level of shirts printing 75 an hour
+- Coordinated as a team to get a job done in time and with a desired quality
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+**Full Time Amazon Associate AFE 2 SLC 1**  
+Apr. 2020 – Aug. 2020  
+Amazon Fulfillment center  
+Salt Lake City, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Performed well for 10–12-hour days on a regular basis
+- Produced a high level of output packing 270 items an hour
+- Collaborated as a team to get a job done in time and with a desired quality
 
-### Data Science Lead
+**Full Time Legal Assistant**  
+Sep. 2019 – Jan. 2020  
+Vance Anderson P.L.C  
+Peoria, AZ
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Prepared outgoing and processed incoming legal documents
+- Received and recorded hundreds of weekly payments (Sum of $200-$500 thousand) from clients and defendants
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Leadership and Service
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+**Full-Time Volunteer Representative**  
+Sep. 2017 – Sep. 2019  
+The Church of Jesus Christ of Latter-day Saints  
+Kennewick, WA
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Performed well for up to 60 hours a week
+- Designed lesson plans to articulate gospel topics to individuals and groups
+- Developed team member skills with a 24/7 partner
 
-### Data Science Consulting Team
+## Interests/Skills/Awards
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Awarded most productive at Amazon for fast learning
+- Love swimming and spending time with family
+- Skills: Excel(VBA), Word, PowerPoint, My SQL, Visual Studios(Python), Accses
